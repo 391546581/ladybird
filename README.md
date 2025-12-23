@@ -35,6 +35,7 @@ See [build instructions](Documentation/BuildInstructionsLadybird.md) for informa
 
 Ladybird runs on Linux, macOS, Windows (with WSL2), and many other \*Nixes.
 
+
 ## How do I read the documentation?
 
 Code-related documentation can be found in the [documentation](Documentation/) folder.
